@@ -1,0 +1,4 @@
+*.swp
+sieve
+sieve.o
+sieve.out
